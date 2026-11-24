@@ -1,0 +1,6 @@
+streamlit>=1.36
+PyMuPDF>=1.24
+scikit-learn>=1.4
+python-dotenv>=1.0
+openai>=1.40
+spacy>=3.7
